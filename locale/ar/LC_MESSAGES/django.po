@@ -3,6 +3,7 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -11,7 +12,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ar\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -37,43 +38,43 @@ msgid "Text (annotated)"
 msgstr ""
 
 msgid "Tutorial"
-msgstr "البرنامج التعليمي"
+msgstr ""
 
 msgid "How-to"
-msgstr "كيفية التنفيذ"
+msgstr ""
 
 msgid "Reference"
-msgstr "المرجع"
+msgstr ""
 
 msgid "Explanation"
-msgstr "الشرح"
+msgstr ""
 
 msgid "Section"
-msgstr "القسم"
+msgstr ""
 
 msgid "Title"
-msgstr "العنوان"
+msgstr ""
 
 msgid "Text"
-msgstr "النص"
+msgstr ""
 
 msgid "Page"
-msgstr "الصفحة"
+msgstr ""
 
 msgid "Section grid"
-msgstr "شبكة الأقسام"
+msgstr ""
 
 msgid "Warning"
-msgstr "تحذير"
+msgstr ""
 
 msgid "Note"
-msgstr "ملاحظة"
+msgstr ""
 
 msgid "Page not found"
-msgstr "الصفحة غير موجودة"
+msgstr ""
 
 msgid "Sorry, this page could not be found."
-msgstr "عذرًا، تعذر العثور على هذه الصفحة."
+msgstr ""
 
 msgid "Try:"
 msgstr ""
@@ -106,65 +107,64 @@ msgid "Copy prompt"
 msgstr ""
 
 msgid "Was this page helpful?"
-msgstr "هل كانت هذه الصفحة مفيدة؟"
+msgstr ""
 
 msgid "This page was helpful"
-msgstr "كانت هذه الصفحة مفيدة"
+msgstr ""
 
 msgid "Happy"
-msgstr "راضٍ"
+msgstr ""
 
 msgid "This page could be improved"
-msgstr "يمكن تحسين هذه الصفحة"
+msgstr ""
 
 msgid "Unhappy"
-msgstr "غير راضٍ"
+msgstr ""
 
 msgid "Help us improve by leaving a comment below"
 msgstr ""
 
-
 msgid "Your feedback"
-msgstr "ملاحظاتك"
+msgstr ""
 
 msgid "Submit"
-msgstr "إرسال"
+msgstr ""
 
 msgid "User guide"
-msgstr "دليل المستخدم"
+msgstr ""
 
 msgid "Toggle the search form"
-msgstr "تبديل نموذج البحث"
+msgstr ""
 
 msgid "Mobile menu toggle"
-msgstr "تبديل القائمة على الجوال"
+msgstr ""
 
 msgid "Search"
-msgstr "بحث"
+msgstr ""
 
 msgid "Skip to main content"
-msgstr "تخطَّ إلى المحتوى الرئيسي"
+msgstr ""
 
 msgid "Dark"
-msgstr "داكن"
+msgstr ""
 
 msgid "Toggle between dark and light theme"
-msgstr "التبديل بين النسق الداكن والفاتح"
+msgstr ""
 
 msgid "Light mode"
-msgstr "الوضع الفاتح"
+msgstr ""
 
 msgid "Dark mode"
-msgstr "الوضع الداكن"
+msgstr ""
 
 msgid "Light"
-msgstr "فاتح"
+msgstr ""
 
 msgid "Welcome to the editor guide CMS!"
 msgstr ""
 
 msgid "On this page"
-msgstr "في هذه الصفحة"
+msgstr ""
 
 msgid "In this section"
 msgstr ""
@@ -177,19 +177,19 @@ msgid "LLM Translator"
 msgstr ""
 
 msgid "image"
-msgstr "صورة"
+msgstr ""
 
 msgid "test"
 msgstr ""
 
 msgid "Previous"
-msgstr "السابق"
+msgstr ""
 
 msgid "Next"
-msgstr "التالي"
+msgstr ""
 
 msgid "No results found"
-msgstr "لم يتم العثور على نتائج"
+msgstr ""
 
 msgid "Home"
-msgstr "الرئيسية"
+msgstr ""
