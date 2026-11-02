@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -12,122 +11,123 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 msgid "Tutorial"
-msgstr ""
+msgstr "Tutoriel"
 
 msgid "How-to"
-msgstr ""
+msgstr "Guide pratique"
 
 msgid "Reference"
-msgstr ""
+msgstr "Référence"
 
 msgid "Explanation"
-msgstr ""
+msgstr "Explication"
 
 msgid "Section"
-msgstr ""
+msgstr "Section"
 
 msgid "Title"
-msgstr ""
+msgstr "Titre"
 
 msgid "Text"
-msgstr ""
+msgstr "Texte"
 
 msgid "Page"
-msgstr ""
+msgstr "Page"
 
 msgid "Section grid"
-msgstr ""
+msgstr "Grille de sections"
 
 msgid "Warning"
-msgstr ""
+msgstr "Avertissement"
 
 msgid "Note"
-msgstr ""
+msgstr "Remarque"
 
 msgid "Page not found"
-msgstr ""
+msgstr "Page introuvable"
 
 msgid "Sorry, this page could not be found."
-msgstr ""
+msgstr "Désolé, cette page est introuvable."
 
 msgid "Was this page helpful?"
-msgstr ""
+msgstr "Cette page vous a-t-elle été utile ?"
 
 msgid "This page was helpful"
-msgstr ""
+msgstr "Cette page a été utile"
 
 msgid "Happy"
-msgstr ""
+msgstr "Satisfait"
 
 msgid "This page could be improved"
-msgstr ""
+msgstr "Cette page pourrait être améliorée"
 
 msgid "Unhappy"
-msgstr ""
+msgstr "Insatisfait"
 
 msgid "Help us improve by telling what you missed"
-msgstr ""
+msgstr "Aidez-nous à améliorer cette page en nous disant ce qui vous a manqué"
 
 msgid "Your feedback"
-msgstr ""
+msgstr "Votre avis"
 
 msgid "Submit"
-msgstr ""
+msgstr "Envoyer"
 
 msgid "User guide"
-msgstr ""
+msgstr "Guide utilisateur"
 
 msgid "Toggle the search form"
-msgstr ""
+msgstr "Afficher/masquer le formulaire de recherche"
 
 msgid "Mobile menu toggle"
-msgstr ""
+msgstr "Afficher/masquer le menu mobile"
 
 msgid "Search"
-msgstr ""
+msgstr "Rechercher"
 
 msgid "Skip to main content"
-msgstr ""
+msgstr "Aller au contenu principal"
 
 msgid "JavaScript is required to toggle light/dark mode."
 msgstr ""
+"JavaScript est nécessaire pour basculer entre les modes clair et sombre."
 
 msgid "Dark"
-msgstr ""
+msgstr "Sombre"
 
 msgid "Toggle between dark and light theme"
-msgstr ""
+msgstr "Basculer entre le thème sombre et le thème clair"
 
 msgid "Light mode"
-msgstr ""
+msgstr "Mode clair"
 
 msgid "Dark mode"
-msgstr ""
+msgstr "Mode sombre"
 
 msgid "Light"
-msgstr ""
+msgstr "Clair"
 
 msgid "On this page"
-msgstr ""
+msgstr "Sur cette page"
 
 msgid "image"
-msgstr ""
+msgstr "image"
 
 msgid "Previous"
-msgstr ""
+msgstr "Précédent"
 
 msgid "Next"
-msgstr ""
+msgstr "Suivant"
 
 msgid "No results found"
-msgstr ""
+msgstr "Aucun résultat trouvé"
 
 msgid "Home"
-msgstr ""
+msgstr "Accueil"
